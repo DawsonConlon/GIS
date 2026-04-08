@@ -14,7 +14,7 @@ The project showcases practical GIS techniques using Python libraries such as:
 
 The objective is to demonstrate how spatial data science techniques can be used to analyze environmental contamination risk and hydrological transport pathways
 
-Project 1 — Saskatchewan GIS Data & Sampling Sites
+Project 1 Saskatchewan GIS Data & Sampling Sites
 
 Objective
 
@@ -59,7 +59,7 @@ Example attributes included:
 <img width="791" height="1482" alt="day1_sampling_sites" src="https://github.com/user-attachments/assets/399e6591-fe91-45b1-ad86-e268fdc8995d" />
 
 
-Project 2 — Contamination Zone and Watershed Simulation
+Project 2 Contamination Zone and Watershed Simulation
 
 Objective
 
